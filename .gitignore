@@ -2,3 +2,5 @@
 config.js
 # Ignore .DS_Store
 .DS_Store
+# Ignore VS Code files.
+.vscode/
